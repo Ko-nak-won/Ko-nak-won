@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-nak-won&show_icons=true&theme=radical)
 
+<a href="https://github.com/Ko-nak-won"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-nak-won&layout=compact&theme=nord&hide_border=true" /></a> 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
