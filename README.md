@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nakwon&fontSize=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-nak-won)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-nak-won&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
