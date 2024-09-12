@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nakwon&fontSize=90)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-nak-won)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
