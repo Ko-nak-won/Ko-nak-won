@@ -3,7 +3,7 @@
 
 <div align="center">
 
-!Typing SVG
+
 
 ---
 
@@ -18,7 +18,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-!PyTorch
+![PyTorch](
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square**드론 제어, Raspberry Pi, YOLO 모델** 관련 질문 환영합니다.
 - 📫 연락 방법: [**GitHub Profile**](https://github.com/Ko-nak융합 프로젝트를 좋아합니다!
 
