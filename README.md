@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ko-nak-won&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-nak-won&layout=compact&theme=radical&hide_border=true" height="165"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ko-nak-won&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ko-nak-won&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
-
 ---
 
 ### 🛠 Tech Stack
